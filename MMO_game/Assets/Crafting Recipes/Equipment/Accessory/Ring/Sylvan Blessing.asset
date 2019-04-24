@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c0066c93d0dfd42a990922cc590c09, type: 3}
+  m_Name: Sylvan Blessing
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: 0428ddedff734c34cbdd407a5f1b6ee3, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 1c685918df1357147a0494c290d4708d, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 7bebeaeb8a14f63428bd657d57f52f75, type: 2}
+    amount: 1
+  results:
+  - item: {fileID: 11400000, guid: 6705a31db836fc0428e381775dae003d, type: 2}
+    amount: 1

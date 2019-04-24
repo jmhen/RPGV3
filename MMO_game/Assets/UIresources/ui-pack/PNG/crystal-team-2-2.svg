@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="590px" viewBox="0 0 200 590" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 21 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="63.8258738%" y1="-7.08645718%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#471EAD" offset="0%"></stop>
+            <stop stop-color="#000F32" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.2975072%" id="linearGradient-2">
+            <stop stop-color="#9DADF9" offset="0%"></stop>
+            <stop stop-color="#18188E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.4791911%" y1="1.61493686%" x2="67.1647077%" y2="51.534824%" id="linearGradient-3">
+            <stop stop-color="#A4BEFF" offset="0%"></stop>
+            <stop stop-color="#F0EFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.6440984%" y1="-2.95658886%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#41BEEE" offset="0%"></stop>
+            <stop stop-color="#6535DA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.67991329%" x2="50%" y2="98.1263062%" id="linearGradient-5">
+            <stop stop-color="#BDAFFF" offset="0%"></stop>
+            <stop stop-color="#03D2E0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.57803979%" y1="44.8343421%" x2="99.5540023%" y2="23.5560007%" id="linearGradient-6">
+            <stop stop-color="#E5EDFF" offset="0%"></stop>
+            <stop stop-color="#ADB9FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFE6FD" offset="0%"></stop>
+            <stop stop-color="#75ECFA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.2711243%" y1="0%" x2="22.6782039%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#7642FC" offset="0%"></stop>
+            <stop stop-color="#000F32" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Subpages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Equipe" transform="translate(0.000000, -612.000000)">
+            <g id="Crystal">
+                <g id="Group-21-Copy" transform="translate(-135.526027, 925.213066) rotate(-30.000000) translate(135.526027, -925.213066) translate(-410.026027, 607.713066)">
+                    <polygon id="Fill-4" fill="url(#linearGradient-1)" points="102.389508 610.258183 223.396951 621.423879 263.784304 541.215652 201.056012 526.519937 80.0508104 576.763332"></polygon>
+                    <polygon id="Fill-5" fill="url(#linearGradient-2)" points="223.396727 621.423431 351.848162 634.449331 263.78408 541.215204"></polygon>
+                    <polygon id="Fill-6" fill="url(#linearGradient-2)" points="351.84861 634.448995 465.40982 617.70157 439.345765 582.345397"></polygon>
+                    <polygon id="Fill-9" fill="url(#linearGradient-3)" points="255.044 303.21922 516.282849 65.1468563 425.284419 17.2093959 263.784304 196.668011 176.855196 299.497694"></polygon>
+                    <polygon id="Fill-15" fill="url(#linearGradient-4)" points="362.240844 466.282852 439.346213 582.345621 465.410268 617.701794 545.385003 518.712349 548.254368 406.282631 548.254368 406.242314 465.410268 367.524113"></polygon>
+                    <polygon id="Fill-16" fill="url(#linearGradient-5)" points="465.409484 367.524337 477.136796 240.918552 425.284307 148.07528 255.043888 303.219108 362.24118 466.283076"></polygon>
+                    <polygon id="Fill-17" fill="url(#linearGradient-6)" points="425.284979 148.07528 477.136348 240.918552 548.254256 106.735325 548.254256 106.731965 516.283409 65.1467443"></polygon>
+                    <polygon id="Fill-18" fill="url(#linearGradient-7)" points="477.136236 240.918328 465.410044 367.524113 548.254144 406.242314 548.254144 106.735101"></polygon>
+                    <polygon id="Fill-19" fill="url(#linearGradient-8)" points="351.84861 634.448995 439.345765 582.345397 263.783408 541.214868"></polygon>
+                    <polygon id="Fill-20" fill="url(#linearGradient-2)" points="281.106711 344.157905 201.056909 526.520497 439.345317 582.345621"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

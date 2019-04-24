@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c0066c93d0dfd42a990922cc590c09, type: 3}
+  m_Name: Carbuncle's Blessing
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: d394403044c501643821ffd56a06c009, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 7c2d9838c2070da47b5fa43c3773bad8, type: 2}
+    amount: 3
+  - item: {fileID: 11400000, guid: ea90544106c348e40bc1ab3de23d5226, type: 2}
+    amount: 1
+  results:
+  - item: {fileID: 11400000, guid: 8228544d6723b794cbf55ba2246e82a4, type: 2}
+    amount: 1

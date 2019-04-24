@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f74795c2a3314cdb9cf2bd059f96520, type: 3}
+  m_Name: Shirt
+  m_EditorClassIdentifier: 
+  itemID: 0
+  name: Shirt
+  icon: {fileID: 0}
+  isDefaultItem: 1
+  equipSlot: 1
+  mesh: {fileID: 4327785897082720907, guid: 78f81339edc6d458f8914f7061d275da, type: 3}
+  coveredMeshRegions: 0200000001000000
+  armorModifier: 0
+  damageModifier: 0
+  magicDamageModifier: 0
+  magicResistModifier: 0
+  hpModifier: 0
+  mpModifier: 0

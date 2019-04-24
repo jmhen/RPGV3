@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f74795c2a3314cdb9cf2bd059f96520, type: 3}
+  m_Name: Crystal Blade
+  m_EditorClassIdentifier: 
+  itemID: 2008
+  name: Crystal Blade
+  icon: {fileID: 0}
+  isDefaultItem: 0
+  equipSlot: 3
+  allowedClasses: 010000
+  damageModifier: 25
+  armorModifier: 0
+  magicDamageModifier: 18
+  magicResistModifier: 0
+  hpModifier: 0
+  mpModifier: 0

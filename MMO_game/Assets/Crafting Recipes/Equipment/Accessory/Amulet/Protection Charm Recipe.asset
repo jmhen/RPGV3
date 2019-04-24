@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c0066c93d0dfd42a990922cc590c09, type: 3}
+  m_Name: Protection Charm Recipe
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: d394403044c501643821ffd56a06c009, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 8545ccfdb8967a04d8f48d16732ac5b8, type: 2}
+    amount: 1
+  results:
+  - item: {fileID: 11400000, guid: 6f442cfd15e8b7e47af0021d0d8561e1, type: 2}
+    amount: 1

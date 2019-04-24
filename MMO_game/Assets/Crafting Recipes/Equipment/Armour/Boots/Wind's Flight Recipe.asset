@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c0066c93d0dfd42a990922cc590c09, type: 3}
+  m_Name: Wind's Flight Recipe
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: 4749098b015c00040a71cd0486c7f6db, type: 2}
+    amount: 3
+  - item: {fileID: 11400000, guid: 1e23c077ca11b8549892343662f57240, type: 2}
+    amount: 3
+  - item: {fileID: 11400000, guid: e16e7c3064e4e654a83d5d04d18d6349, type: 2}
+    amount: 2
+  results:
+  - item: {fileID: 11400000, guid: 7faab23a3a89a0f44a262246ba2fce0a, type: 2}
+    amount: 1

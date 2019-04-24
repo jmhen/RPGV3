@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c0066c93d0dfd42a990922cc590c09, type: 3}
+  m_Name: Beserk's Charge Recipe
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: 4f07fbcce1833764f83764fd7245279b, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: 28c6e968a40f27146b7714f046750974, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: 27365e239ad20d843a52181645776bb9, type: 2}
+    amount: 3
+  results:
+  - item: {fileID: 11400000, guid: 05adce50276cc434d93e73673e6c516e, type: 2}
+    amount: 1
